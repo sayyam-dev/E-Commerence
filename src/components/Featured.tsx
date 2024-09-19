@@ -5,6 +5,8 @@ export default function Featured() {
     return (
         <div className='w-full max-w-[1518px] h-auto flex flex-col items-center mb-[140px] px-4'>
             {/* Time Section */}
+
+            
             <div className="w-full max-w-[1300px] h-auto flex flex-col md:flex-row md:justify-between items-center mb-[40px]">
                 <div className="flex flex-col gap-4 w-full md:w-[600px]">
                     <div className='flex items-center gap-4'>
